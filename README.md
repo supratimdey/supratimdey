@@ -14,7 +14,6 @@ Software Developer by night
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=649ef74686494030589d" alt="Appwrite Cloud Card" />
 </a>
 
-https://cloud.appwrite.io/card/649ef74686494030589d
 
 ### Skills
 
